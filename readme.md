@@ -4,8 +4,8 @@ Simple domain checker
 Domain checker for domains that contain all combinations of two words (head and
 tail).
 
-Installation
-------------
+Installation and usage
+----------------------
 
 1. Clone git repo
 2. Install "host" utility ("sudo pacman -S host" or similar)
